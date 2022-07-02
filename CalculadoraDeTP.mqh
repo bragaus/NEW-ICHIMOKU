@@ -12,11 +12,21 @@ void tal() {
       datetime DateTime = iTime(_Symbol,PERIOD_MN1,ListaDeIdentificadorDaBarraMensalLocalizada[BarraMensal]);
       Print("Data Mensal: "+DateTime);
 
+      ChartNavigate(ChartID(),CHART_BEGIN,999999999999);
+
+      int Shift = iBarShift(_Symbol,PERIOD_M5,DateTime);
+      Print("Shift: "+Shift);
+
+   //---- make two more attempts to read
+   /*for(int i=0;i<10; i++)
+     {
+      Sleep(5000);
       int Shift = iBarShift(_Symbol,PERIOD_M5,DateTime);
       Print("Barra M1 "+Shift);
-
-      DateTime = iTime(_Symbol,PERIOD_M1,Shift);
+      DateTime = iTime(_Symbol,PERIOD_M5,Shift);
       Print("Data M1 Alcançada: "+DateTime);
+     }
+   */
 
    }
 
