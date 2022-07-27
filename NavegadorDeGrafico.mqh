@@ -14,6 +14,7 @@ void Navegador() {
       ChartNavigate(handle,CHART_BEGIN,9999999999999999999);
       //--- get the number of the first bar visible on the chart (numeration like in timeseries)
 
+
          //while(!IsStopped()) {
          //   ResetLastError();
          //   int n = iBars(_Symbol, );
@@ -23,3 +24,28 @@ void Navegador() {
      }
 
 }
+
+int day = 1000000;
+string symbol = "NAS100";
+
+datetime D1DateTime()
+  {
+
+   int count=1;
+
+   datetime time=iTime(symbol,PERIOD_M5,day);//Calculate Time of day
+   int err=GetLastError();
+   Print("First Error---",(string)err);
+   while((err==4066 || err==4073) && !IsStopped())
+     {
+      time=iTime(symbol,PERIOD_D1,day);
+      err=GetLastError();
+      Print("Count---",count," Second Error---",(string)err);
+      count++;
+     }
+   if(err==4051) Print("Input too High");
+   if(err!=4051 && time==0) Print("Another Error");
+
+   Print("Input---",day,"   Time---",time);
+   return(time);
+  }
