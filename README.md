@@ -237,5 +237,5 @@ De forma geral:
 
 
 <p align="left">
-  <img src="./senkou_span.png" width="900"/>
+  <img src="./senkou_span_a.png" width="900"/>
 </p>
