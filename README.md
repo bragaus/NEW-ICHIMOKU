@@ -4,12 +4,6 @@ Este botzin foi criado para **enviar o todo poderoso Sinal Clássico do Ichimoku
 
 > 💬 Este projeto nasceu de um estudo aprofundado com base no livro **_Guide complet du trading avec Ichimoku_** da **Karen Peloille** ([karenpeloille.com](https://karenpeloille.com/)), somado a **horas de análise prática com traders da França**.
 
-A história real?  
-Fui chamado pra programar um robô com as estratégias deles...  
-Entreguei. Funcionou.  
-**Mas no final… o combinado não foi cumprido.** 
-Agora o conhecimento vai pra comunidade.
-
 ---
 
 Segue abaixo um **estudo completo**, com as **fórmulas matemáticas**, a **lógica por trás do sinal** e **como aplicar tudo isso no trade real**, com foco no **Nasdaq 100 Cash**.
@@ -57,6 +51,8 @@ Calculada e sobreposta no gráfico de 5 minutos.
 Também sobreposta no mesmo gráfico.
 
 ---
+
+> Se quiser entender como tudo isso funciona é so estudar a materia abaixo.
 
 ## 📈 Foco do Projeto: Nasdaq 100 Cash
 
