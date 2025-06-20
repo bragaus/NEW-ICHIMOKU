@@ -68,7 +68,7 @@ Fechamento total da posição.
 ## 🛡️ Definição de Stop Loss (SL) e Precisão Estatística do Sinal
 
 <p align="left">
-  <img src="./stoploss_precision.png" width="900"/>
+  <img src="./stoploss.png" width="900"/>
 </p>
 
 ### ✅ Como definir o Stop Loss (SL):
