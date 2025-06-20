@@ -103,7 +103,7 @@ Para aprimorar sua técnica, **Goichi Hosoda** recrutou um grupo de estudantes q
 
 ---
 
-## ⚙️ Fórmulas Originais de Goichi Hosoda 🤙📑
+## ⚙️ Fórmulas Originais de Goichi Hosoda 📑
 
 > Desenvolvidas após quase 20 anos de pesquisa manual com assistentes, sem computadores, na década de 1930\~1960.
 
