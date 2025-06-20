@@ -1,6 +1,24 @@
 # Sinal Clássico do Ichimoku 🙏
 
-Este robô foi desenvolvido para **enviar o Sinal Clássico do Ichimoku** diretamente para um **bot no Telegram**.
+Este botzin foi criado para **enviar o todo poderoso Sinal Clássico do Ichimoku** direto pro meu número no **Telegram**. Sem enrolação. Sinal limpo. Rápido. No momento exato.
+
+> 💬 Este projeto nasceu de um estudo aprofundado com base no livro **_Guide complet du trading avec Ichimoku_** da **Karen Peloille** ([karenpeloille.com](https://karenpeloille.com/)), somado a **horas de análise prática com traders da França**.
+
+A história real?  
+Fui chamado pra programar um robô com as estratégias deles...  
+Entreguei. Funcionou.  
+**Mas no final… o combinado não foi cumprido.**
+
+Então é isso.  
+Se eles não quiseram pagar…  
+Agora o conhecimento vai pra comunidade.  
+**Gratuito. Livre. Avançado.**
+
+---
+
+Segue abaixo um **estudo completo**, com as **fórmulas matemáticas**, a **lógica por trás do sinal** e **como aplicar tudo isso no trade real**, com foco no **Nasdaq 100 Cash**.
+
+Prepare-se. 🚀
 
 ---
 
@@ -53,9 +71,6 @@ O **mercado-alvo** deste projeto é o **índice Nasdaq 100 Cash**.
 🔍 Todos os parâmetros da estratégia, os filtros e as condições foram **ajustados e validados** especificamente para o comportamento do **Nasdaq 100 Cash**.
 
 ---
-
-> 💬 Este projeto nasceu de um estudo aprofundado com base no livro **Guide complet du trading avec Ichimoku** da **Karen Peloille** e na experiência direta com **traders da França**.
-> Segue abaixo um estudo completo sobre o sinal, suas formulas e como usar no trade
 
 # 🖥️ Indicador Ichimoku Kinko Hyo
 
