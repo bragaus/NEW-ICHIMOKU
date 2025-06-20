@@ -35,3 +35,33 @@ Permitir ao trader **"ver o equilíbrio do mercado em um único olhar"**, trazen
 
 ---
 
+## 📚 Desenvolvimento da Metodologia Ichimoku
+
+Para aprimorar sua técnica, **Goichi Hosoda** recrutou um grupo de estudantes que realizavam manualmente os cálculos das curvas, levando em consideração diferentes critérios matemáticos e estatísticos.
+
+🕒 Foram necessários quase **20 anos de pesquisa** para isolar os parâmetros que hoje conhecemos como os valores padrão do sistema Ichimoku.
+
+---
+
+## 🗃️ Evolução Histórica
+
+📅 Os primeiros trabalhos começaram no início da década de **1940**.
+
+De **1969 até 1980**, **Goichi Hosoda** publicou uma série de livros detalhando sua técnica.
+
+Esses livros continham **não apenas dados científicos**, mas também uma forte carga de **conceitos espirituais e filosóficos**, refletindo a mentalidade japonesa da época.
+
+🌍 A disseminação da técnica para o Ocidente só começou realmente em **1996**, graças ao trabalho de **Hidenobu Sasaki**, que publicou o primeiro livro sobre Ichimoku em **língua inglesa**.
+
+---
+
+## 🛠️ Situação Atual
+
+Hoje, a metodologia **Ichimoku Kinko Hyo** é estudada por inúmeros especialistas em todo o mundo.
+
+📖 Existem diversos livros dedicados à técnica, tornando possível encontrar e aprofundar-se em **obras específicas sobre o Ichimoku**, mesmo fora do Japão.
+
+---
+
+
+
