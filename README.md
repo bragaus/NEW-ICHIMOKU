@@ -107,8 +107,6 @@ Para aprimorar sua técnica, **Goichi Hosoda** recrutou um grupo de estudantes q
 
 > Desenvolvidas após quase 20 anos de pesquisa manual com assistentes, sem computadores, na década de 1930\~1960.
 
-## ⚙️ Componentes técnicos das fórmulas
-
 | 🧪 Nome Técnico      | 🧮 Fórmula Matemática                                   | 🧭 Descrição Funcional |
 |---------------------|---------------------------------------------------------|------------------------|
 | **Tenkan-Sen**      | `(Máxima dos últimos 9 períodos + Mínima dos últimos 9 períodos) / 2` | **Linha de Conversão (Curto Prazo)**<br>Indica a direção e o momentum mais recente do preço. Reage rápido. |
