@@ -210,4 +210,32 @@ As interpretações podem variar de acordo com o contexto, mas de forma geral:
   <img src="./chikou_span.png" width="900"/>
 </p>
 
+## ⬜ Senkou Span A (先行スパン1) – Primeira Linha do Nuvem (Leading Span 1)
 
+### 📌 O que é?
+
+Frequentemente abreviada como **SSA**, a **Senkou Span A** é a **primeira linha que forma a nuvem (Kumo)**.
+
+➡️ Ela corresponde à **média entre a Kijun-Sen e a Tenkan-Sen**, projetada **26 períodos à frente** no gráfico.
+
+---
+
+### 🎯 Função Principal
+
+A **Senkou Span A** forma a **borda do Kumo (nuvem)** e também é chamada de **Leading Span 1**.
+
+De forma geral:
+
+| Situação | Significado |
+|--------|--------|
+| 📈 Preço acima da nuvem | A **Senkou Span A** atua como **suporte** |
+| 📉 Preço abaixo da nuvem | Atua como **resistência** |
+
+**Essa curva permite determinar o nível de risco**, oferecendo assim a possibilidade de **antecipar uma compra ou uma venda**.
+
+---
+
+
+<p align="left">
+  <img src="./senkou_span.png" width="900"/>
+</p>
