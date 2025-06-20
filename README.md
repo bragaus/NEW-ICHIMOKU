@@ -268,3 +268,37 @@ Assim como a **Senkou Span A**, ela **ajuda a determinar o nível de risco**.
   <img src="./senkou_span_b.png" width="900"/>
 </p>
 
+## ⬜ Kumo (雲) – A Nuvem
+
+### 📌 O que é?
+
+O **Kumo**, ou simplesmente **nuvem**, é o **espaço entre a Senkou Span A e a Senkou Span B**, independentemente das posições relativas dessas duas curvas.
+
+➡️ A **espessura** e a **forma** da nuvem servem como **indicadores das flutuações de preço**.
+
+De maneira geral:
+
+- **Quanto mais espessa a nuvem**, **maior a volatilidade do mercado**.
+- A **posição** das linhas A e B, bem como a **orientação da nuvem**, também servem como indicadores.
+
+---
+
+### 🎯 Função Principal
+
+| Situação | Significado |
+|--------|--------|
+| 📉 Tendência de baixa | Quando a **Senkou Span B está acima da Senkou Span A** |
+| 📈 Tendência de alta | Quando a **Senkou Span A está acima da Senkou Span B** |
+
+O **ângulo da nuvem** também indica se o movimento é **ascendente** ou **descendente**.
+
+Além disso, a **posição atual dos preços em relação à nuvem** é fundamental na interpretação:
+
+- Se o preço estiver **acima do Kumo**, a nuvem atua como **suporte**.
+- Se o preço estiver **abaixo do Kumo**, a nuvem funciona como **resistência**.
+
+---
+
+<p align="left">
+  <img src="./kumo.png" width="900"/>
+</p>
