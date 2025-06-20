@@ -8,17 +8,11 @@ A história real?
 Fui chamado pra programar um robô com as estratégias deles...  
 Entreguei. Funcionou.  
 **Mas no final… o combinado não foi cumprido.**
-
-Então é isso.  
-Se eles não quiseram pagar…  
-Agora o conhecimento vai pra comunidade.  
-**Gratuito. Livre. Avançado.**
+Agora o conhecimento vai pra comunidade.
 
 ---
 
 Segue abaixo um **estudo completo**, com as **fórmulas matemáticas**, a **lógica por trás do sinal** e **como aplicar tudo isso no trade real**, com foco no **Nasdaq 100 Cash**.
-
-Prepare-se. 🚀
 
 ---
 
