@@ -179,4 +179,35 @@ A **Kijun-Sen** atua como uma **linha de equilíbrio**, podendo servir como **su
 
 ---
 
+## 🟩 Chikou Span (遅行スパン) – Linha de Retardo (Lagging Span)
+
+### 📌 O que é?
+
+A **Chikou Span**, ou apenas **Chikou**, é o **indicador do último preço de fechamento**, projetado **26 períodos para trás**.
+
+➡️ Para traçar a Chikou, basta **voltar 26 períodos no gráfico** e marcar o preço de fechamento correspondente.  
+➡️ Também é chamada de **linha de preços deslocados** ou **"Lagging Span"**.
+
+---
+
+### 🎯 Função Principal
+
+A **Chikou Span** é frequentemente utilizada pelos traders para **confirmar ou invalidar uma entrada em posição**.
+
+| Situação | Significado |
+|--------|--------|
+| 📉 Chikou abaixo dos preços | **Evitar compras**, sinaliza venda ou fraqueza |
+| 📈 Chikou acima dos preços | **Sinal de compra**, indica força de alta |
+
+As interpretações podem variar de acordo com o contexto, mas de forma geral:
+
+- ❌ Não se deve comprar se a Chikou estiver **abaixo dos preços**.
+- ✅ Se a Chikou atravessa os preços de **baixo para cima**, é um sinal de **compra**.
+
+---
+
+<p align="left">
+  <img src="./chikou_span.png" width="900"/>
+</p>
+
 
