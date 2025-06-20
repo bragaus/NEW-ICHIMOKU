@@ -31,6 +31,40 @@ Essa abordagem permite ao robô **captar a força das tendências de médio praz
 
 ---
 
+## 🛠️ Gestão de Trade: Take Profit Saídas Parciais em Múltiplos Alvos (TP1 / TP2)
+
+<p align="left">
+  <img src="./trade_management_tp1_tp2.png" width="900"/>
+</p>
+
+### 🎯 Como funciona a gestão da posição:
+
+A gestão do trade pode ser feita em **1, 2 ou mais etapas**.
+
+---
+
+### ✅ Estratégia de Saída por Parcialização:
+
+| Nível | Ação |
+|---|---|
+| **TP1 – Primeiro Alvo de Lucro** | ✅ Ao atingir o **TP1**, **50% da posição é fechada parcialmente**.<br>✅ O **Stop Loss (SL)** é imediatamente ajustado para o **ponto de entrada**, protegendo o capital restante. |
+| **TP2 – Segundo Alvo de Lucro** | ✅ No **TP2**, ocorre o **fechamento de 100% da posição restante**, pois neste ponto pode haver um **potencial início de reversão de tendência**. |
+
+---
+
+### ✅ Anotações Visuais da Imagem:
+
+- **Bougie de Ouverture / Point d’entrée:**  
+A vela que marca o ponto de entrada da operação.
+
+- **Take Profit TP1:**  
+Onde ocorre a primeira saída parcial com ajuste do SL.
+
+- **Take Profit TP2:**  
+Fechamento total da posição.
+
+---
+
 ### 📊 Indicadores Usados no Setup:
 
 - ✅ **Ichimoku Completo**  
