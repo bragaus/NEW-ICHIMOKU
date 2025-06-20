@@ -1,3 +1,19 @@
+# 💸 Sinal Clássico do Ichimoku 🙏
+
+Este robô foi desenvolvido para **enviar o Sinal Clássico do Ichimoku** diretamente para um **bot no Telegram**.
+
+---
+
+## 📈 Foco do Projeto: Nasdaq 100 Cash
+
+O **mercado-alvo** deste projeto é o **índice Nasdaq 100 Cash**.
+
+🔍 Todos os parâmetros da estratégia, os filtros e as condições foram **ajustados e validados** especificamente para o comportamento do **Nasdaq 100 Cash**.
+
+---
+
+> 💬 Este projeto nasceu de um estudo aprofundado com base no livro **Guide complet du trading avec Ichimoku** da **Karen Peloille** e na experiência direta com **traders da França**.
+
 # 🖥️ Indicador Ichimoku Kinko Hyo
 
 ## 📡 Introdução ao Sistema
