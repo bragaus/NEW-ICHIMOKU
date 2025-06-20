@@ -116,30 +116,18 @@ Para aprimorar sua técnica, **Goichi Hosoda** recrutou um grupo de estudantes q
 | **Chikou Span**     | `Fechamento atual`, projetado 26 períodos para trás | **Linha de Atraso (Lagging Span)**<br>Confirmação de tendência. Indica a força e o espaço livre para desenvolvimento do movimento. |
 
 ---
+
 <p align="left">
   <img src="./ichimoku_apresentacao.png" width="900"/>
 </p>
 
-### 🎯 Resumo Rápido:
+### 🧪 Detalhe Importante:
 
-O **Ichimoku Kinko Hyo** é um sistema completo de leitura de mercado, capaz de mostrar:
-
-- **Tendência**
-- **Suporte / Resistência**
-- **Momentum**
-- **Confirmação de sinal**
-- **Níveis futuros e passados de preço-chave**
-
----
-
-## 🌫️ Sobre a Kumo (Nuvem) ☁️
-
-- Área entre **Span A** e **Span B**
-- **Espessura** = volatilidade 🛁
-- **Cor**: Altista (cinza) ou Baixista (vermelha) 🚦
-- **Projeção futura** = suporte/resistência projetados 🔮
-
----
+> Esses números **não foram escolhidos por acaso**!\
+> Foram resultado de **décadas de backtests manuais** conduzidos por Hosoda e seus assistentes.\
+> ✅ Testaram diversas combinações\
+> ✅ Focaram na eficácia dos sinais\
+> ✅ Validaram no mercado japonês da época
 
 ## 🕒 Por que os parâmetros 9-26-52? ⏳
 
@@ -149,13 +137,32 @@ O **Ichimoku Kinko Hyo** é um sistema completo de leitura de mercado, capaz de 
 | **26**    | \~1 mês comercial japonês                       | Médio prazo |
 | **52**    | \~2 meses de pregão                             | Longo prazo |
 
-### 🧪 Detalhe Importante:
+## 🕒 Conversão dos Períodos Originais do Ichimoku para o Horário da Nasdaq
 
-> Esses números **não foram escolhidos por acaso**!\
-> Foram resultado de **décadas de backtests manuais** conduzidos por Hosoda e seus assistentes.\
-> ✅ Testaram diversas combinações\
-> ✅ Focaram na eficácia dos sinais\
-> ✅ Validaram no mercado japonês da época
+O Ichimoku foi desenvolvido com base no mercado japonês dos anos 30–40, considerando a duração dos pregões da época.  
+Abaixo está a adaptação para o contexto da **Nasdaq**, considerando o **horário regular de negociação** e também uma estimativa para quem quiser usar **pré-market + after-hours (extensão 24h aprox)**.
+
+---
+
+| 📏 Componente       | 🗓️ Equivalente em Dias Úteis (Nasdaq) | ⏱️ Horas de Pregão Regular (6,5h/dia) | ⏲️ Horas Estendidas (Pré + After + Regular ~16h/dia) |
+|--------------------|----------------------------------------|--------------------------------------|------------------------------------------------------|
+| **Tenkan‑Sen (9)** | 9 dias úteis                           | 58,5 horas                           | 144 horas                                            |
+| **Kijun‑Sen (26)** | 26 dias úteis                          | 169 horas                            | 416 horas                                            |
+| **Senkou Span B (52)** | 52 dias úteis                      | 338 horas                            | 832 horas                                            |
+
+---
+
+### 🧠 Notas Técnicas:
+
+- **Baseado em candles de 1 hora**, mas o conceito pode ser adaptado para outros timeframes (4H, Diário, etc).
+- Para **day traders**, considerar apenas o horário regular pode ser mais fiel ao mercado real.
+- Para **sistemas automatizados 24/7** (ex.: cripto), usar os equivalentes em horas pode ser mais indicado.
+
+---
+
+### 🎯 Por que manter os parâmetros originais?
+
+> muitos traders profissionais ao redor do mundo **preferem manter os valores clássicos (9-26-52)**, pois assim estão **em sintonia com a maioria dos players globais que operam Ichimoku**.
 
 ---
 
