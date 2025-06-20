@@ -1,4 +1,4 @@
-# 💸 Sinal Clássico do Ichimoku 🙏
+# Sinal Clássico do Ichimoku 🙏
 
 Este robô foi desenvolvido para **enviar o Sinal Clássico do Ichimoku** diretamente para um **bot no Telegram**.
 
