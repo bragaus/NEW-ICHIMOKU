@@ -4,6 +4,68 @@ Este robô foi desenvolvido para **enviar o Sinal Clássico do Ichimoku** direta
 
 ---
 
+## ⬜ Estratégia Operacional – Gráfico de 5 Minutos (Nasdaq 100 Cash)
+
+<p align="left">
+  <img src="./le_signe_classique.png" width="900"/>
+</p>
+
+### 📌 Contexto da Técnica
+
+Esta técnica foi desenvolvida com o objetivo de:
+
+- ✅ **Ganhar tempo** na análise
+- ✅ **Fazer uma leitura rápida** diretamente no computador ou celular
+- ✅ Focar na interpretação do gráfico no **timeframe de 5 minutos**
+
+---
+
+### 🎯 Onde aplicar?
+
+➡️ A técnica foi pensada especificamente para o **mercado de índices**, como o **Nasdaq 100 Cash**, por conta da **alta volatilidade característica desses ativos**.
+
+✅ Pode ser utilizada tanto para **Scalping** quanto para **Intraday**.
+
+---
+
+### ⚠️ Regras de Tempo Gráfico
+
+> A técnica **só deve ser utilizada no gráfico de 5 minutos**.
+
+📛 Não é recomendada em **tempos gráficos maiores ou menores**, pois:
+
+- Em tempos maiores: o método perde agilidade e não gera boas oportunidades.
+- Em tempos menores: os **riscos de stop loss (SL)** aumentam de forma significativa.
+
+---
+
+### 🧭 Regras Básicas de Entrada e Saída
+
+- **Ponto de Entrada:** Definido pela **vela de abertura** que cumpre os critérios da estratégia (exemplo: cruzamento ou rompimento identificado pelo indicador).
+
+- **Stop Loss (SL):** A própria **ação do preço** determina o limite de perda.
+
+- **Take Profit (TP):** O **alvo de lucro** é fornecido pelo próprio **indicador de sinal** que será programado dentro do robô.
+
+---
+
+### 📊 Indicadores Usados no Setup:
+
+- ✅ **Ichimoku Completo**  
+(Com foco na leitura da Tenkan, Kijun, Chikou, Nuvem e Senkous)
+
+- ✅ **Média Móvel Exponencial (EMA) 200**
+
+- ✅ **Média Móvel Simples (SMA) 50**
+
+- ✅ **Kijun H4 (Kijun de 4 Horas)**  
+Calculada e sobreposta no gráfico de 5 minutos.
+
+- ✅ **Tenkan H4 (Tenkan de 4 Horas)**  
+Também sobreposta no mesmo gráfico.
+
+---
+
 ## 📈 Foco do Projeto: Nasdaq 100 Cash
 
 O **mercado-alvo** deste projeto é o **índice Nasdaq 100 Cash**.
