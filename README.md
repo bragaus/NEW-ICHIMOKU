@@ -73,7 +73,7 @@ Para aprimorar sua técnica, **Goichi Hosoda** recrutou um grupo de estudantes q
 | **Chikou Span**   | `Fechamento_atual`, deslocado 26 períodos para trás           | Linha de atraso (confirmação de tendência) |
 
 <p align="center">
-  <img src="./ichimoku_apresentacao.png" width="300"/>
+  <img src="./ichimoku_apresentacao.png" width="900"/>
 </p>
 
 ---
