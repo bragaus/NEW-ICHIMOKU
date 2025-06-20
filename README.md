@@ -23,7 +23,7 @@ O timeframe de 4 horas é **4800% maior** que o de 5 minutos.
 
 Essa abordagem permite ao robô **captar a força das tendências de médio prazo**, enquanto opera com precisão nas entradas de curto prazo.
 
-- **Ponto de Entrada:** É quando um marubozu de venda cruza a kumo, tenkan do 4h e kijun do 4h e fecha com a chikou span livre (sem nenhum dos elementos do grafico na sua frente)
+- **Ponto de Entrada:** É quando um marubozu de venda cruza a kumo, tenkan do 4h, kijun do 4h, Média Móvel Simples (SMA) de 50,  Média Móvel Exponencial (EMA) 200  e fecha com a chikou span livre (sem nenhum dos elementos do grafico na sua frente)
 
 - **Stop Loss (SL):** Deve ser colocado na maxima desse movimento com uma margem de erro
 
