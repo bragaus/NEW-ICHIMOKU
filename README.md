@@ -148,3 +148,35 @@ Se houver esse afastamento, é comum ocorrer uma **correção futura no preço**
 </p>
 
 ---
+## 🟦 Kijun-Sen (基準線) – A Linha Base
+
+### 🧮 Cálculo
+
+A **Kijun-Sen**, ou simplesmente **Kijun**, é um **indicador de direção da tendência**.
+
+Ela corresponde à **média entre o menor preço e o maior preço das últimas 26 velas (períodos)**.
+
+➡️ Esta curva **indica a futura direção do preço**.  
+➡️ Pode ser utilizada **sozinha** para tomada de decisão de **compra ou venda**.  
+➡️ Representa o **equilíbrio de médio prazo**.
+
+---
+
+### 🎯 Função Principal
+
+A **Kijun-Sen** atua como uma **linha de equilíbrio**, podendo servir como **suporte** ou **resistência**.
+
+| Situação | Significado |
+|--------|--------|
+| 📈 Preço acima da Kijun | Provável **tendência de alta** |
+| 📉 Preço abaixo da Kijun | Provável **tendência de baixa** |
+
+---
+
+<p align="left">
+  <img src="./kijun_sen.png" width="900"/>
+</p>
+
+---
+
+
