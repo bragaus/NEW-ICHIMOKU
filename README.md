@@ -143,8 +143,6 @@ Se houver esse afastamento, é comum ocorrer uma **correção futura no preço**
 
 ---
 
-### 🖼️ Exemplo Visual
-
 <p align="left">
   <img src="./tenkan_sen.png" width="900"/>
 </p>
