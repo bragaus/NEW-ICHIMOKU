@@ -235,7 +235,36 @@ De forma geral:
 
 ---
 
-
 <p align="left">
   <img src="./senkou_span_a.png" width="900"/>
 </p>
+
+## ⬜ Senkou Span B (先行スパン2) – Segunda Linha da Nuvem (Leading Span 2)
+
+### 📌 O que é?
+
+A **Senkou Span B**, também chamada de **SSB**, é o **segundo contorno da nuvem Kumo**.
+
+➡️ Ela corresponde à **média entre o menor preço e o maior preço das últimas 52 velas (períodos)**, projetada **26 períodos à frente** no gráfico.
+
+➡️ Pode ser vista como uma **Kijun deslocada para frente**, calculada com base nas **52 últimas velas**.
+
+---
+
+### 🎯 Função Principal
+
+A **Senkou Span B** também é chamada de **Leading Span 2** e forma a **outra borda do Kumo**.
+
+Assim como a **Senkou Span A**, ela **ajuda a determinar o nível de risco**.
+
+| Situação | Significado |
+|--------|--------|
+| 📉 Preço abaixo da Senkou Span B | Atua como **resistência** |
+| 📈 Preço acima da Senkou Span B | Atua como **suporte** |
+
+---
+
+<p align="left">
+  <img src="./senkou_span_b.png" width="900"/>
+</p>
+
