@@ -162,28 +162,11 @@ Abaixo está a adaptação para o contexto da **Nasdaq**, considerando o **horá
 
 ### 🧮 Cálculo
 
-A **Tenkan-Sen**, também chamada de **Tenkan**, é calculada da mesma forma que a **Kijun-Sen**, mas usando apenas as **9 últimas velas (períodos)**.
+A **Tenkan-Sen** representa o **equilíbrio de curto prazo** do preço, também chamada de **Tenkan**, é calculada da mesma forma que a **Kijun-Sen**, mas usando apenas as **9 últimas velas (períodos)**.
 
 ➡️ Pode ser vista como uma **"Kijun rápida"**.  
 ➡️ Sua periodicidade é cerca de **3 vezes menor** que a da Kijun.  
-➡️ Utilizada como **linha de sinal**.
-
----
-
-### 🎯 Função Principal
-
-A **Tenkan-Sen** representa o **equilíbrio de curto prazo** do preço.
-
-🔎 **Interpretação prática:**
-
-| Situação | Significado |
-|--------|--------|
-| 📏 Linha inclinada | Indica uma **tendência** no mercado |
-| ➡️ Linha horizontal | Indica **mercado em range (consolidação)** |
-| 📉 Grande afastamento dos preços em relação à Tenkan | Pode sinalizar um **excesso de compra ou venda** (overbought/oversold) |
-
-Se houver esse afastamento, é comum ocorrer uma **correção futura no preço**.
-
+➡️ Se houver muito afastamento entre tenkan e kijun, é comum ocorrer uma **correção futura no preço**.
 ---
 
 <p align="left">
