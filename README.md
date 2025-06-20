@@ -77,7 +77,7 @@ O **Stop Loss** deve ser posicionado no **preço mais alto recente**, ou seja, n
 
 ---
 
-### ✅ Exemplo de Sinal Real:
+### ✅ Precisão Estatística do Sinal
 
 Nesta imagem:
 
