@@ -4,48 +4,19 @@ Este robô foi desenvolvido para **enviar o Sinal Clássico do Ichimoku** direta
 
 ---
 
-## ⬜ Estratégia Operacional – Gráfico de 5 Minutos (Nasdaq 100 Cash)
+## ⬜ Exemplo de um dos sinais clássicos de venda – Gráfico de 5 Minutos (Nasdaq 100 Cash)
 
 <p align="left">
   <img src="./le_signe_classique.png" width="900"/>
 </p>
 
-### 📌 Contexto da Técnica
-
-Esta técnica foi desenvolvida com o objetivo de:
-
-- ✅ **Ganhar tempo** na análise
-- ✅ **Fazer uma leitura rápida** diretamente no computador ou celular
-- ✅ Focar na interpretação do gráfico no **timeframe de 5 minutos**
-
----
-
-### 🎯 Onde aplicar?
-
-➡️ A técnica foi pensada especificamente para o **mercado de índices**, como o **Nasdaq 100 Cash**, por conta da **alta volatilidade característica desses ativos**.
-
-✅ Pode ser utilizada tanto para **Scalping** quanto para **Intraday**.
-
----
-
-### ⚠️ Regras de Tempo Gráfico
-
-> A técnica **só deve ser utilizada no gráfico de 5 minutos**.
-
-📛 Não é recomendada em **tempos gráficos maiores ou menores**, pois:
-
-- Em tempos maiores: o método perde agilidade e não gera boas oportunidades.
-- Em tempos menores: os **riscos de stop loss (SL)** aumentam de forma significativa.
-
----
-
 ### 🧭 Regras Básicas de Entrada e Saída
 
-- **Ponto de Entrada:** Definido pela **vela de abertura** que cumpre os critérios da estratégia (exemplo: cruzamento ou rompimento identificado pelo indicador).
+- **Ponto de Entrada:** É quando um marubozu de venda cruza a kumo, tenkan e kijun e fecha com a chikou span livre (sem nenhum dos elementos do grafico na sua frente)
 
-- **Stop Loss (SL):** A própria **ação do preço** determina o limite de perda.
+- **Stop Loss (SL):** Deve ser colocado na maxima desse movimento com uma margem de erro
 
-- **Take Profit (TP):** O **alvo de lucro** é fornecido pelo próprio **indicador de sinal** que será programado dentro do robô.
+- **Take Profit (TP):** O alvo é quando o preço conseguir passar da kijun e tenkan e conseguir encostar na nuvem
 
 ---
 
