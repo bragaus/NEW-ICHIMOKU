@@ -1,6 +1,6 @@
 # Sinal Clássico do Ichimoku 🙏
 
-Este botzin foi criado para **enviar o todo poderoso Sinal Clássico do Ichimoku** direto pro meu número no **Telegram**. Sem enrolação. Sinal limpo. Rápido. No momento exato.
+Este botzin foi criado para **enviar o todo poderoso Sinal Clássico do Ichimoku** direto pro meu número no **Telegram**.
 
 > 💬 Este projeto nasceu de um estudo aprofundado com base no livro **_Guide complet du trading avec Ichimoku_** da **Karen Peloille** ([karenpeloille.com](https://karenpeloille.com/)), somado a **horas de análise prática com traders da França**.
 
