@@ -72,7 +72,7 @@ Para aprimorar sua técnica, **Goichi Hosoda** recrutou um grupo de estudantes q
 | **Senkou Span B** | `(Máxima_52 + Mínima_52) / 2`, deslocada 26 períodos à frente | Borda lenta da nuvem (suporte longo prazo) |
 | **Chikou Span**   | `Fechamento_atual`, deslocado 26 períodos para trás           | Linha de atraso (confirmação de tendência) |
 
-<p align="center">
+<p align="left">
   <img src="./ichimoku_apresentacao.png" width="900"/>
 </p>
 
