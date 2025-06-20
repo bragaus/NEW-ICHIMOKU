@@ -150,31 +150,13 @@ Abaixo está a adaptação para o contexto da **Nasdaq**, considerando o **horá
 | **Kijun‑Sen (26)** | 26 dias úteis                          | 169 horas                            | 416 horas                                            |
 | **Senkou Span B (52)** | 52 dias úteis                      | 338 horas                            | 832 horas                                            |
 
----
-
-### 🧠 Notas Técnicas:
-
-- **Baseado em candles de 1 hora**, mas o conceito pode ser adaptado para outros timeframes (4H, Diário, etc).
-- Para **day traders**, considerar apenas o horário regular pode ser mais fiel ao mercado real.
-- Para **sistemas automatizados 24/7** (ex.: cripto), usar os equivalentes em horas pode ser mais indicado.
-
----
-
 ### 🎯 Por que manter os parâmetros originais?
 
 > muitos traders profissionais ao redor do mundo **preferem manter os valores clássicos (9-26-52)**, pois assim estão **em sintonia com a maioria dos players globais que operam Ichimoku**.
 
 ---
 
-## 📚 Processo de Pesquisa: 20 Anos de Testes Manuais 📁
-
-- 🏢 Hosoda montou um instituto de pesquisa
-- 🧑‍🎓 Contou com estudantes como assistentes
-- 📈 Fizeram simulações de trade manualmente em papel milimetrado
-- 📏 Avaliaram quais combinações geravam os melhores resultados
-- 🤫 Método permaneceu secreto até 1968
-
----
+# Agora vamos ver sobre cada componente sagrado do ichimokU 🙏 começando pela tenkanzinha:
 
 ## 🟥 Tenkan-Sen (転換線) – A Linha de Conversão
 
