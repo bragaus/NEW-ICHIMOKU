@@ -160,13 +160,16 @@ Abaixo está a adaptação para o contexto da **Nasdaq**, considerando o **horá
 
 ## 🟥 Tenkan-Sen (転換線) – A Linha de Conversão
 
+A **Tenkan-Sen** representa o **equilíbrio de curto prazo** do preço, também chamada de **Tenkan**, é calculada da mesma forma que a **Kijun-Sen**, mas usando apenas as **9 últimas velas (períodos)**.
+
 ### 🧮 Cálculo
 
-A **Tenkan-Sen** representa o **equilíbrio de curto prazo** do preço, também chamada de **Tenkan**, é calculada da mesma forma que a **Kijun-Sen**, mas usando apenas as **9 últimas velas (períodos)**.
+A **Tenkan-Sen**, também chamada de **Tenkan**, é calculada da mesma forma que a **Kijun-Sen**, mas usando apenas as **9 últimas velas (períodos)**.
 
 ➡️ Pode ser vista como uma **"Kijun rápida"**.  
 ➡️ Sua periodicidade é cerca de **3 vezes menor** que a da Kijun.  
-➡️ Se houver muito afastamento entre tenkan e kijun, é comum ocorrer uma **correção futura no preço**.
+➡️ Utilizada como **linha de sinal**.
+
 ---
 
 <p align="left">
@@ -175,6 +178,8 @@ A **Tenkan-Sen** representa o **equilíbrio de curto prazo** do preço, também 
 
 ---
 ## 🟦 Kijun-Sen (基準線) – A Linha Base
+
+A **Kijun-Sen** atua como uma **linha de equilíbrio**, podendo servir como **suporte** ou **resistência**.
 
 ### 🧮 Cálculo
 
@@ -190,7 +195,7 @@ Ela corresponde à **média entre o menor preço e o maior preço das últimas 2
 
 ### 🎯 Função Principal
 
-A **Kijun-Sen** atua como uma **linha de equilíbrio**, podendo servir como **suporte** ou **resistência**.
+
 
 | Situação | Significado |
 |--------|--------|
