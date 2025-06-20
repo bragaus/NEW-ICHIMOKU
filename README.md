@@ -136,7 +136,7 @@ O **Ichimoku Kinko Hyo** é um sistema completo de leitura de mercado, capaz de 
 
 - Área entre **Span A** e **Span B**
 - **Espessura** = volatilidade 🛁
-- **Cor**: Altista (verde) ou Baixista (vermelha) 🚦
+- **Cor**: Altista (cinza) ou Baixista (vermelha) 🚦
 - **Projeção futura** = suporte/resistência projetados 🔮
 
 ---
