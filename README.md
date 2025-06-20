@@ -6,10 +6,6 @@ Este botzin foi criado para **enviar o todo poderoso Sinal Clássico do Ichimoku
 
 ---
 
-Segue abaixo um **estudo completo**, com as **fórmulas matemáticas**, a **lógica por trás do sinal** e **como aplicar tudo isso no trade real**, com foco no **Nasdaq 100 Cash**.
-
----
-
 ## ⬜ Exemplo de um dos sinais clássicos de venda – Gráfico de 5 Minutos (Nasdaq 100 Cash)
 
 <p align="left">
