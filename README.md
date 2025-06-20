@@ -65,6 +65,49 @@ Fechamento total da posição.
 
 ---
 
+## 🛡️ Definição de Stop Loss (SL) e Precisão Estatística do Sinal
+
+<p align="left">
+  <img src="./stoploss_precision.png" width="900"/>
+</p>
+
+### ✅ Como definir o Stop Loss (SL):
+
+O **Stop Loss** deve ser posicionado no **preço mais alto recente**, ou seja, na região de **resistência acima dos elementos rompidos**.
+
+---
+
+### ✅ Exemplo de Sinal Real:
+
+Nesta imagem:
+
+- A vela de entrada **rompeu simultaneamente os seguintes elementos**:
+  - 📏 **SMA200**
+  - 📏 **EMA50**
+  - 🔀 **Cruzamento entre a Tenkan e a Kijun**
+  - ☁️ **Rompimento da Kumo (nuvem)**
+  - ✅ **Confirmação da Chikou Span (sem obstáculos nos 26 períodos anteriores)**
+
+Esse tipo de entrada representa um **sinal de força**, com múltiplas confirmações.
+
+---
+
+### ✅ Anotações Visuais da Imagem:
+
+- **Validation de la Chikou Span:**  
+Confirmação visual da Chikou.
+
+- **Bougie de Ouverture / Point d’entrée:**  
+Candle que marcou o início da operação.
+
+---
+
+### ✅ Estatísticas de Precisão (Baseadas em Testes Práticos):
+
+Ao seguir esse método de SL e utilizar **lotes adequados ao tamanho da sua conta**, as **margens de precisão** observadas ficam entre **80% de acerto**, considerando o histórico dos testes feitos pelo autor.
+
+---
+
 ### 📊 Indicadores Usados no Setup:
 
 - ✅ **Ichimoku Completo**  
