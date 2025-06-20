@@ -107,17 +107,30 @@ Para aprimorar sua técnica, **Goichi Hosoda** recrutou um grupo de estudantes q
 
 > Desenvolvidas após quase 20 anos de pesquisa manual com assistentes, sem computadores, na década de 1930\~1960.
 
-| Linha             | Fórmula Matemática                                            | Descrição                                  |
-| ----------------- | ------------------------------------------------------------- | ------------------------------------------ |
-| **Tenkan-sen**    | `(Máxima_9 + Mínima_9) / 2`                                   | Linha de Conversão (curto prazo)           |
-| **Kijun-sen**     | `(Máxima_26 + Mínima_26) / 2`                                 | Linha Base (médio prazo)                   |
-| **Senkou Span A** | `(Tenkan + Kijun) / 2`, deslocada 26 períodos à frente        | Borda rápida da nuvem (projeção futura)    |
-| **Senkou Span B** | `(Máxima_52 + Mínima_52) / 2`, deslocada 26 períodos à frente | Borda lenta da nuvem (suporte longo prazo) |
-| **Chikou Span**   | `Fechamento_atual`, deslocado 26 períodos para trás           | Linha de atraso (confirmação de tendência) |
+## ⚙️ Componentes técnicos das fórmulas
 
+| 🧪 Nome Técnico      | 🧮 Fórmula Matemática                                   | 🧭 Descrição Funcional |
+|---------------------|---------------------------------------------------------|------------------------|
+| **Tenkan-Sen**      | `(Máxima dos últimos 9 períodos + Mínima dos últimos 9 períodos) / 2` | **Linha de Conversão (Curto Prazo)**<br>Indica a direção e o momentum mais recente do preço. Reage rápido. |
+| **Kijun-Sen**       | `(Máxima dos últimos 26 períodos + Mínima dos últimos 26 períodos) / 2` | **Linha Base (Médio Prazo)**<br>Serve como suporte/resistência dinâmica e filtro de tendência. |
+| **Senkou Span A**   | `(Tenkan-Sen + Kijun-Sen) / 2`, projetada 26 períodos à frente | **Borda Rápida da Nuvem (Kumo Futuro)**<br>Define uma das extremidades do Kumo. Reage mais rápido às mudanças de preço. |
+| **Senkou Span B**   | `(Máxima dos últimos 52 períodos + Mínima dos últimos 52 períodos) / 2`, projetada 26 períodos à frente | **Borda Lenta da Nuvem (Suporte/Resistência de Longo Prazo)**<br>Mais estável, define a segunda borda do Kumo. Representa o equilíbrio de longo prazo. |
+| **Chikou Span**     | `Fechamento atual`, projetado 26 períodos para trás | **Linha de Atraso (Lagging Span)**<br>Confirmação de tendência. Indica a força e o espaço livre para desenvolvimento do movimento. |
+
+---
 <p align="left">
   <img src="./ichimoku_apresentacao.png" width="900"/>
 </p>
+
+### 🎯 Resumo Rápido:
+
+O **Ichimoku Kinko Hyo** é um sistema completo de leitura de mercado, capaz de mostrar:
+
+- **Tendência**
+- **Suporte / Resistência**
+- **Momentum**
+- **Confirmação de sinal**
+- **Níveis futuros e passados de preço-chave**
 
 ---
 
