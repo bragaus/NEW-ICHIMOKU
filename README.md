@@ -193,10 +193,6 @@ Ela corresponde à **média entre o menor preço e o maior preço das últimas 2
 
 ---
 
-### 🎯 Função Principal
-
-
-
 | Situação | Significado |
 |--------|--------|
 | 📈 Preço acima da Kijun | Provável **tendência de alta** |
