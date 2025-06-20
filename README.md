@@ -104,7 +104,7 @@ Candle que marcou o início da operação.
 
 ### ✅ Estatísticas de Precisão (Baseadas em Testes Práticos):
 
-Ao seguir esse método de SL e utilizar **lotes adequados ao tamanho da sua conta**, as **margens de precisão** observadas ficam entre **80% de acerto**, considerando o histórico dos testes feitos pelo autor.
+Ao seguir esse método de SL e utilizar **lotes adequados ao tamanho da sua conta**, as **margens de precisão** observadas ficam entre **80% de acerto**, considerando o histórico dos testes feitos entre os candles mensais de agosto de 2021 a janeiro de 2022 no nasdaq 100 cash 5 minutos.
 
 ---
 
