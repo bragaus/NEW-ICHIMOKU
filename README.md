@@ -13,6 +13,7 @@ O **mercado-alvo** deste projeto é o **índice Nasdaq 100 Cash**.
 ---
 
 > 💬 Este projeto nasceu de um estudo aprofundado com base no livro **Guide complet du trading avec Ichimoku** da **Karen Peloille** e na experiência direta com **traders da França**.
+> Segue abaixo um estudo completo sobre o sinal, suas formulas e como usar no trade
 
 # 🖥️ Indicador Ichimoku Kinko Hyo
 
@@ -59,25 +60,53 @@ Para aprimorar sua técnica, **Goichi Hosoda** recrutou um grupo de estudantes q
 
 ---
 
-## 🗃️ Evolução Histórica
+## ⚙️ Fórmulas Originais de Goichi Hosoda 🤙📑
 
-📅 Os primeiros trabalhos começaram no início da década de **1940**.
+> Desenvolvidas após quase 20 anos de pesquisa manual com assistentes, sem computadores, na década de 1930\~1960.
 
-De **1969 até 1980**, **Goichi Hosoda** publicou uma série de livros detalhando sua técnica.
-
-Esses livros continham **não apenas dados científicos**, mas também uma forte carga de **conceitos espirituais e filosóficos**, refletindo a mentalidade japonesa da época.
-
-🌍 A disseminação da técnica para o Ocidente só começou realmente em **1996**, graças ao trabalho de **Hidenobu Sasaki**, que publicou o primeiro livro sobre Ichimoku em **língua inglesa**.
-
----
-
-## 🛠️ Situação Atual
-
-Hoje, a metodologia **Ichimoku Kinko Hyo** é estudada por inúmeros especialistas em todo o mundo.
-
-📖 Existem diversos livros dedicados à técnica, tornando possível encontrar e aprofundar-se em **obras específicas sobre o Ichimoku**, mesmo fora do Japão.
+| Linha             | Fórmula Matemática                                            | Descrição                                  |
+| ----------------- | ------------------------------------------------------------- | ------------------------------------------ |
+| **Tenkan-sen**    | `(Máxima_9 + Mínima_9) / 2`                                   | Linha de Conversão (curto prazo)           |
+| **Kijun-sen**     | `(Máxima_26 + Mínima_26) / 2`                                 | Linha Base (médio prazo)                   |
+| **Senkou Span A** | `(Tenkan + Kijun) / 2`, deslocada 26 períodos à frente        | Borda rápida da nuvem (projeção futura)    |
+| **Senkou Span B** | `(Máxima_52 + Mínima_52) / 2`, deslocada 26 períodos à frente | Borda lenta da nuvem (suporte longo prazo) |
+| **Chikou Span**   | `Fechamento_atual`, deslocado 26 períodos para trás           | Linha de atraso (confirmação de tendência) |
 
 ---
 
+## 🌫️ Sobre a Kumo (Nuvem) ☁️
 
+- Área entre **Span A** e **Span B**
+- **Espessura** = volatilidade 🛁
+- **Cor**: Altista (verde) ou Baixista (vermelha) 🚦
+- **Projeção futura** = suporte/resistência projetados 🔮
 
+---
+
+## 🕒 Por que os parâmetros 9-26-52? ⏳
+
+| Parâmetro | Origem Histórica                                | Significado |
+| --------- | ----------------------------------------------- | ----------- |
+| **9**     | \~1,5 semanas de pregão no Japão dos anos 30-40 | Curto prazo |
+| **26**    | \~1 mês comercial japonês                       | Médio prazo |
+| **52**    | \~2 meses de pregão                             | Longo prazo |
+
+### 🧪 Detalhe Importante:
+
+> Esses números **não foram escolhidos por acaso**!\
+> Foram resultado de **décadas de backtests manuais** conduzidos por Hosoda e seus assistentes.\
+> ✅ Testaram diversas combinações\
+> ✅ Focaram na eficácia dos sinais\
+> ✅ Validaram no mercado japonês da época
+
+---
+
+## 📚 Processo de Pesquisa: 20 Anos de Testes Manuais 📁
+
+- 🏢 Hosoda montou um instituto de pesquisa
+- 🧑‍🎓 Contou com estudantes como assistentes
+- 📈 Fizeram simulações de trade manualmente em papel milimetrado
+- 📏 Avaliaram quais combinações geravam os melhores resultados
+- 🤫 Método permaneceu secreto até 1968
+
+---
