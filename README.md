@@ -48,7 +48,7 @@ Também sobreposta no mesmo gráfico.
 
 ---
 
-#>_ Se quiser entender como tudo isso funciona é so estudar a materia abaixo. 👨‍💻🖥️🕵️‍♂️🔓🧪📊💡🎯
+# >_ Se quiser entender como tudo isso funciona é so estudar a materia abaixo. 👨‍💻🖥️🕵️‍♂️🔓🧪📊💡🎯
 
 ## 📈 Foco do Projeto: Nasdaq 100 Cash
 
