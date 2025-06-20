@@ -12,6 +12,15 @@ Este robô foi desenvolvido para **enviar o Sinal Clássico do Ichimoku** direta
 
 ### 🧭 Regras Básicas de Entrada e Saída
 
+Relação de Timeframes: 5 Minutos vs 4 Horas
+
+Nesta estratégia, o **sinal é gerado no gráfico de 5 minutos**, mas o cálculo de alguns indicadores de referência (como a **Kijun H4** e a **Tenkan H4**) é feito com base no **timeframe de 4 horas**, que representa uma janela de tempo **48 vezes maior**.
+
+> **Em termos percentuais:**  
+O timeframe de 4 horas é **4800% maior** que o de 5 minutos.
+
+Essa abordagem permite ao robô **captar a força das tendências de médio prazo**, enquanto opera com precisão nas entradas de curto prazo.
+
 - **Ponto de Entrada:** É quando um marubozu de venda cruza a kumo, tenkan e kijun e fecha com a chikou span livre (sem nenhum dos elementos do grafico na sua frente)
 
 - **Stop Loss (SL):** Deve ser colocado na maxima desse movimento com uma margem de erro
