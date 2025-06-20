@@ -84,11 +84,11 @@ Nesta imagem:
 - A vela de entrada **rompeu simultaneamente os seguintes elementos**:
   - 📏 **SMA200**
   - 📏 **EMA50**
-  - 🔀 **Cruzamento entre a Tenkan e a Kijun**
+  - 🔀 **Cruzamento entre a Tenkan e a Kijun de um tempo 48 vezes maior que o atual**
   - ☁️ **Rompimento da Kumo (nuvem)**
   - ✅ **Confirmação da Chikou Span (sem obstáculos nos 26 períodos anteriores)**
 
-Esse tipo de entrada representa um **sinal de força**, com múltiplas confirmações.
+Esse tipo de entrada representa um **sinal clássico forte**, pois contém múltiplas confirmações.
 
 ---
 
