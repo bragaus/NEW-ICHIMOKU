@@ -305,29 +305,6 @@ Além disso, a **posição atual dos preços em relação à nuvem** é fundamen
 
 ## ⬜ Sinais de Compra e Venda no Ichimoku
 
-### 📌 O que são?
-
-Antes de tudo, é importante entender que a metodologia **Ichimoku** é usada principalmente para **detectar sinais de compra e venda** com base na tendência do mercado.
-
-➡️ O objetivo é indicar **quando comprar** e **quando vender**, dependendo se o mercado está em **tendência de alta** ou **tendência de baixa**.
-
-Os sinais de compra e venda são detectados principalmente através do **cruzamento entre a linha de sinal (Tenkan-Sen)** e a **linha de tendência (Kijun-Sen)**.
-
----
-
-### 🎯 Interpretação dos Sinais
-
-| Tipo de Sinal | Condição | Significado |
-|---|---|---|
-| ✅ **Sinal de Compra (Achat)** | Quando a **Tenkan-Sen cruza de baixo para cima a Kijun-Sen** | Indica **início de uma tendência de alta** |
-| ❌ **Sinal de Venda (Vente)** | Quando a **Tenkan-Sen cruza de cima para baixo a Kijun-Sen** | Indica **início de uma tendência de baixa** |
-
-Além dos cruzamentos, a **posição do preço em relação ao Kumo (nuvem)** e a **posição da Chikou Span em relação aos preços** podem reforçar ou invalidar o sinal.
-
----
-
-### 🧠 Reflexão Estratégica
-
 > O Ichimoku vai muito além de apenas cruzamentos.  
 > Um bom sinal de compra, por exemplo, **não é apenas o cruzamento da Tenkan com a Kijun**, mas também deve estar **acima da nuvem**, com a **Chikou Span validando** e preferencialmente com **uma nuvem futura apontando para cima**.
 
