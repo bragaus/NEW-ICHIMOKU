@@ -1,32 +1,37 @@
-# 📈 Apresentação do Indicador Ichimoku Kinko Hyo
+# 🖥️ Indicador Ichimoku Kinko Hyo
 
-No **aprendizado de trading**, o método Ichimoku é considerado indispensável.
+## 📡 Introdução ao Sistema
 
-O **Ichimoku Kinko Hyo** é uma ferramenta e técnica de análise técnica que se baseia nos **candles japoneses**, considerando ao mesmo tempo o **price action** e a **dimensão temporal**.
+No universo do **trading**, o método Ichimoku é uma referência obrigatória.
 
-Desenvolvido no Japão e muito valorizado por traders daquele país (e da Ásia em geral), o Ichimoku vem ganhando cada vez mais popularidade ao redor do mundo.
+O **Ichimoku Kinko Hyo** é uma ferramenta de **análise técnica** que trabalha com os **candles japoneses**, levando em consideração **ação de preço (price action)** e **tempo** ao mesmo tempo.
 
----
-
-## 🧑‍🏫 Goichi Hosoda: O Precursor da Metodologia Ichimoku Kinko Hyo
-
-O método **Ichimoku Kinko Hyo**, ou mais comumente chamado apenas de **Ichimoku**, foi criado pelo **jornalista japonês Goichi Hosoda** (1898 – 1982), que ficou conhecido pelo pseudônimo **“Ichimoku Sanjin”**.
-
-Essa técnica é baseada nos **candles japoneses** e tem como objetivo realizar **previsões otimizadas das flutuações de mercado**.
-
-Goichi Hosoda construiu essa metodologia levando em conta **não apenas o price action**, mas também **o fator tempo**, seguindo uma linha de raciocínio próxima da utilizada por **William Delbert Gann**.
+📈 Desenvolvido no Japão e adotado por traders de toda a Ásia, o Ichimoku tem conquistado popularidade global entre analistas técnicos.
 
 ---
 
-## ✨ Significado do Nome Ichimoku Kinko Hyo
+## 👤 Goichi Hosoda — O Arquiteto por trás do Ichimoku
 
-O próprio nome da técnica carrega sua essência:
+O método **Ichimoku Kinko Hyo**, ou simplesmente **Ichimoku**, foi criado pelo **jornalista japonês Goichi Hosoda** (1898–1982), também conhecido como **“Ichimoku Sanjin”**.
 
-| Termo      | Significado                |
-|------------|----------------------------|
-| Ichimoku   | "De um só olhar"          |
-| Kinko      | "Equilíbrio"              |
-| Hyo        | "Curva" ou "Gráfico"      |
+🧠 Sua técnica se baseia nos **candles japoneses**, com o objetivo de realizar **previsões de alta precisão sobre as flutuações de mercado**, incorporando a dimensão do **tempo** ao processo de análise.
 
-👉 Em outras palavras:  
-**O Ichimoku permite visualizar o equilíbrio de uma curva de preço com um único olhar.**
+☑️ Goichi Hosoda buscava criar um método que sintetizasse **ação de preço + tempo + contexto de mercado**, com uma filosofia semelhante à de **William Delbert Gann**.
+
+---
+
+## 🧬 Origem do Nome: Ichimoku Kinko Hyo
+
+O nome carrega o conceito central da metodologia:
+
+| 🧩 Termo      | 🧭 Significado                |
+|---------------|------------------------------|
+| `Ichimoku`    | "De um só olhar"             |
+| `Kinko`       | "Equilíbrio"                 |
+| `Hyo`         | "Curva" / "Gráfico"          |
+
+🎯 **Missão do método:**  
+Permitir ao trader **"ver o equilíbrio do mercado em um único olhar"**, trazendo uma visão consolidada e instantânea da situação dos preços.
+
+---
+
