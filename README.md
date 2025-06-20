@@ -7,7 +7,7 @@ Este botzin foi criado para **enviar o todo poderoso Sinal Clássico do Ichimoku
 A história real?  
 Fui chamado pra programar um robô com as estratégias deles...  
 Entreguei. Funcionou.  
-**Mas no final… o combinado não foi cumprido.**
+**Mas no final… o combinado não foi cumprido.** 
 Agora o conhecimento vai pra comunidade.
 
 ---
