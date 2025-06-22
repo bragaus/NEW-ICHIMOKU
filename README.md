@@ -1,3 +1,8 @@
+<p align="left">
+  <img src="./logo.png" width="900"/>
+</p>
+
+
 # Sinal Clássico do Ichimoku 🙏
 
 Este botzin foi criado para **entender o todo poderoso Sinal Clássico do Ichimoku**, fazer a entrada automatica com stop loss, take profit e saídas parciais ao tocar em certos elementos. Ele também envia notificação para o meu numero no telegram.
