@@ -8,9 +8,21 @@
 Este botzin foi criado para **entender o todo poderoso Sinal Clássico do Ichimoku**, fazer a entrada automatica com stop loss, take profit e saídas parciais ao tocar em certos elementos. Ele também envia notificação para o meu numero no telegram e whatsapp.
 
 > 💬 Este projeto nasceu de um estudo aprofundado com base no livro **_Guide complet du trading avec Ichimoku_** da **Karen Peloille** ([karenpeloille.com](https://karenpeloille.com/)), somado a **horas de análise prática com traders da França**.
-
 ---
-
+### ⛓️ Carteiras
+```text
+┌────────────────────────────────────────────────┐
+│       ☕ Apoie com um café cripto ☕          │
+├────────────────────────────────────────────────┤
+│ se algum desses projetos iluminou seu caminho  │
+│        me mande um café na blockchain          │
+│                                                │
+│ Compile sonhos. [↓↓↓↓↓]                        │
+└────────────────────────────────────────────────┘
+```
+### BTC: `14ohNE9gpgU1XjLWZuTG4QwDha9GYMaQRa`  
+### IOTA: `0x63017a130a6afd36193c1ba16644f1ce7a39d320ebb2bc609e4cb6e89989b231`
+---
 ## ⬜ Exemplo de um dos sinais clássicos de venda – Gráfico de 5 Minutos (Nasdaq 100 Cash)
 
 <p align="left">
