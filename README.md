@@ -9,12 +9,11 @@ Este botzin foi criado para **entender o todo poderoso Sinal Clássico do Ichimo
 
 > 💬 Este projeto nasceu de um estudo aprofundado com base no livro **_Guide complet du trading avec Ichimoku_** da **Karen Peloille** ([karenpeloille.com](https://karenpeloille.com/)), somado a **horas de análise prática com traders da França**.
 ---
-### ⛓️ Carteiras
 ```text
 ┌────────────────────────────────────────────────┐
 │       ☕ Apoie com um café cripto ☕          │
 ├────────────────────────────────────────────────┤
-│ se algum desses projetos iluminou seu caminho  │
+│ se algum desses sinais Ichimoku Iluminou seu caminho
 │        me mande um café na blockchain          │
 │        ──────────────────────────────          │
 │         [↓↓↓↓↓] Carteiras $₿ [↓↓↓↓↓]           │
