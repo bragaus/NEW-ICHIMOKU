@@ -16,12 +16,13 @@ Este botzin foi criado para **entender o todo poderoso Sinal Clássico do Ichimo
 ├────────────────────────────────────────────────┤
 │ se algum desses projetos iluminou seu caminho  │
 │        me mande um café na blockchain          │
-│                                                │
-│ Compile sonhos. [↓↓↓↓↓]                        │
+│        ──────────────────────────────          │
+│         [↓↓↓↓↓] Carteiras $₿ [↓↓↓↓↓]           │
+│                                                │  
+│ BTC: 14ohNE9gpgU1XjLWZuTG4QwDha9GYMaQRa        │
+│ IOTA: 0x63017a130a6afd36193c1ba16644f1ce7a39d320ebb2bc609e4cb6e89989b231 
 └────────────────────────────────────────────────┘
 ```
-### BTC: `14ohNE9gpgU1XjLWZuTG4QwDha9GYMaQRa`  
-### IOTA: `0x63017a130a6afd36193c1ba16644f1ce7a39d320ebb2bc609e4cb6e89989b231`
 ---
 ## ⬜ Exemplo de um dos sinais clássicos de venda – Gráfico de 5 Minutos (Nasdaq 100 Cash)
 
