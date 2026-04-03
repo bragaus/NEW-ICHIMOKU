@@ -18,8 +18,7 @@ Este botzin foi criado para **entender o todo poderoso Sinal Clássico do Ichimo
 │        ──────────────────────────────          │
 │         [↓↓↓↓↓] Carteiras $₿ [↓↓↓↓↓]           │
 │                                                │  
-│ BTC: 14ohNE9gpgU1XjLWZuTG4QwDha9GYMaQRa        │
-│ IOTA: 0x63017a130a6afd36193c1ba16644f1ce7a39d320ebb2bc609e4cb6e89989b231 
+│ PIX: 74289f2a-f558-40d4-8867-aac8f4ec60c2      │ 
 └────────────────────────────────────────────────┘
 ```
 ---
